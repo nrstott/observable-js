@@ -1,0 +1,10 @@
+{
+    "name": "observable",
+    "description": "JavaScript framework for Observable mixins with plugin support",
+    "keywords": ["observable", "mixin", "event", "plugin"],
+    "author": "Nathan Stott",
+    "email": "nathan.stott@whiteboard-it.com",
+    "dependencies": [],
+    "lib": "lib"
+}
+
